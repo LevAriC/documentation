@@ -195,7 +195,7 @@ myText2.font = sfFont
 ```
 
 
-#### Multiline text
+## Multiline text
 
 `UIText` components by default adapt their width to the length of the provided string. To make a text span multiple lines, set the `textWrapping` property to _true_ and `adaptWidth` to _false_, and also specify the desired width.
 
